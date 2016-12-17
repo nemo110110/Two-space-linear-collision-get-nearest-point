@@ -1,5 +1,4 @@
-#include<opencv2/imgproc/imgproc.hpp>
-using namespace cv;
+
 
 Point3d two_space_linear_collision_get_nearest_point(double A_0e, double B_0e, double C_0e, double D_0e, double A_0f, double B_0f, double C_0f, double D_0f,
 													double A_1e, double B_1e, double C_1e, double D_1e, double A_1f, double B_1f, double C_1f, double D_1f)
